@@ -13,7 +13,7 @@ Simple and dynamic tool to manage daily tasks
 
 ## Detalhes do projeto
 
-RinT is a ongoing development tool designed and developed by Raphael Barreiro, an IT student looking for his first job as a developer.
+RinT is an ongoing development tool designed and developed by Raphael Barreiro, an IT student looking for his first job as a developer.
 
 You can try out all the input fields! For now, I still haven't integrated a database to create a profile/login and save the changes made by a user. I'm still studying about back-end and, as soon as posible, I will do that.
 
