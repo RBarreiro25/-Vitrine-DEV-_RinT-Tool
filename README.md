@@ -1,17 +1,21 @@
-# Nome do meu projeto
+# RinT Task Managment Tool
 
-Rápida descrição do objetivo de fazer esse projeto
+Simple and dynamic tool to manage daily tasks
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **RinT Task Managment Tool**
+| :label: Tecnologias | CSS, HTML, Javascript
+| :rocket: URL         | https://rint.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![rint-project](https://user-images.githubusercontent.com/126487945/233506628-d75498ba-4db4-44e7-95c1-82542fecfc5f.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+RinT is a ongoing development tool designed and developed by Raphael Barreiro, an IT student looking for his first job as a developer.
+
+You can try out all the input fields! For now, I still haven't integrated a database to create a profile/login and save the changes made by a user. I'm still studying about back-end and, as soon as posible, I will do that.
+
+Thank you for testing it! Feel free to contact me and give any feedbacks.
+
